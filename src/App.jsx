@@ -120,7 +120,7 @@ input, select { font-family: 'Barlow', sans-serif; }
 const USERS = [
   { id: "U1", nome: "Carlos Mendes", login: "carlos", senha: "1234", role: "comercial",  avatar: "CM" },
   { id: "U2", nome: "Matheus Tizzo",     login: "Tizzo",    senha: "op416", role: "separador",  avatar: "MT" },
-  { id: "U3", nome: "Pedro Lima",    login: "pedro",  senha: "1234", role: "motorista",  avatar: "PL" },
+  { id: "U3", nome: "Pedro Lucas",    login: "pedro",  senha: "1234", role: "motorista",  avatar: "PL" },
   { id: "U4", nome: "Joao Silva",    login: "joao",   senha: "1234", role: "conferente", avatar: "JS" },
 ];
 
